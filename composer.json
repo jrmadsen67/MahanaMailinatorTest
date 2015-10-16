@@ -1,11 +1,10 @@
 {
   "name": "jrmadsen67/mahana-mailinator-test",
   "description": "A PHPUnit extension for testing emails via the Mailinator API",
-  "minimum-stability": "stable",
   "license": "MIT",
   "require": {
     "php": ">=5.2.1",
-    "jrmadsen67/mahana-mailinator-api": "*"
+    "jrmadsen67/mahana-mailinator-api": "dev-master"
   },
   "authors": [
     {
